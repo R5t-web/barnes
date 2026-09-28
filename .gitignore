@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfplan
+
+# Terraform binaries
+terraform
+terraform.exe
+
+# Archives
+*.zip
+
+# IDE
+.vscode/
+.idea/
